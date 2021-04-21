@@ -42,5 +42,5 @@ ____________________
 ### [7. А0-А2(декомпозиция) Начисление заработной платы](https://github.com/kornilovaap/Business_process_modeling/blob/main/IDEF0/%D0%900-%D0%902_%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B0_%D0%B7%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.pdf)    
 Декомпозированы два блока второго уровня.    
      
-#### [8. А0-А5 формирование отчета](https://github.com/kornilovaap/Business_process_modeling/blob/main/IDEF0/%D0%900-%D0%905_%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0.pdf)    
+### [8. А0-А5 формирование отчета](https://github.com/kornilovaap/Business_process_modeling/blob/main/IDEF0/%D0%900-%D0%905_%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0.pdf)    
 Процесс формирования отчета.    
