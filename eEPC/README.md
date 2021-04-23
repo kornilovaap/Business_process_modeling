@@ -31,26 +31,34 @@ ___________________________
 Семья находит квартиру, бронирует её и пытается оформить ипотеку в банке.    
 Создано в MS Visio  
     
-# [4. Организационная модель Магазин продажи одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%BE%D1%80%D0%B3_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3.pdf)       
+# [4. eEPC Получение выписка из банка ЮР лицом]()          
+Представитель фирмы приходит в банк и пытается получить выписку по счёту.          
+Создано в Aris Express           
+           
+# [5. eEPC Замена паспорта по достижении 20 лет]()
+Гражданин приходит в паспортный стол для замены старого паспорта на новый.         
+Создано в Aris Express           
+           
+# [6. Организационная модель Магазин продажи одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%BE%D1%80%D0%B3_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3.pdf)       
 Организационная модель (Organizational Chart) — диаграмма, которая описывает организационные единицы различного уровня и их взаимосвязи.     
 Доп. возможности Aris Express
              
-# [5. Функциональная модель Магазин продажи одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D1%84%D1%83%D0%BD%D0%BA%D1%86_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3.pdf)                        
+# [7. Функциональная модель Магазин продажи одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D1%84%D1%83%D0%BD%D0%BA%D1%86_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3.pdf)                        
 Функциональная модель (Functional tree) — дерево основных функций, реализуемых организацией, имеет два вида:    
 * верхнеуровневое описание функций организации и    
 * дерево функций с декомпозицией на процессы.    
 Оба типа диаграмм могут использоваться по отдельности или дополнять друг друга.    
 Доп. возможности Aris Express
     
-# [6. Организационная модель Больница](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/Organizational%20chart_%D0%91%D0%9E%D0%9B%D0%AC%D0%9D%D0%98%D0%A6%D0%90.pdf)   
+# [8. Организационная модель Больница](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/Organizational%20chart_%D0%91%D0%9E%D0%9B%D0%AC%D0%9D%D0%98%D0%A6%D0%90.pdf)   
 Доп. возможности Aris Express              
                
-# [7. Функциональная модель Больница](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/Process%20landscape_%D0%91%D0%9E%D0%9B%D0%AC%D0%9D%D0%98%D0%A6%D0%90.pdf)        
+# [9. Функциональная модель Больница](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/Process%20landscape_%D0%91%D0%9E%D0%9B%D0%AC%D0%9D%D0%98%D0%A6%D0%90.pdf)        
 Доп. возможности Aris Express   
      
-# [8. Организационная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%BE%D1%80%D0%B3_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)   
+# [10. Организационная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%BE%D1%80%D0%B3_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)   
 Доп. возможности Aris Express              
                
-# [7. Функциональная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D1%84%D1%83%D0%BD%D0%BA%D1%86_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)        
+# [11. Функциональная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D1%84%D1%83%D0%BD%D0%BA%D1%86_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)        
 Доп. возможности Aris Express   
             
