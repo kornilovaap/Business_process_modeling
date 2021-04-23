@@ -48,3 +48,9 @@ ___________________________
 # [7. Функциональная модель Больница](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/Process%20landscape_%D0%91%D0%9E%D0%9B%D0%AC%D0%9D%D0%98%D0%A6%D0%90.pdf)        
 Доп. возможности Aris Express   
      
+# [8. Организационная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%BE%D1%80%D0%B3_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)   
+Доп. возможности Aris Express              
+               
+# [7. Функциональная модель IT отдел банка](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D1%84%D1%83%D0%BD%D0%BA%D1%86_it_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.pdf)        
+Доп. возможности Aris Express   
+            
