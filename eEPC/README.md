@@ -18,7 +18,7 @@ _______________________
 Модели выполнениы либо в ARIS Express, либо в  MS Visio           
 ___________________________
                           
-# [1. eEPC Тестирование нового релиза приложения по продаже одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.adf)           
+# [1. eEPC Тестирование нового релиза приложения по продаже одежды онлайн](https://github.com/kornilovaap/Business_process_modeling/blob/main/eEPC/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7_%D0%BC%D0%BE%D0%B1_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf)           
 Обновление для мобильного приложения. В процессе подготовки релиза больше всего времени занимают разработка и тестирование. 
 Эти фазы планируют и оценивают детально, чтобы определить дату выпуска обновления.             
 Создано в Aris Express               
