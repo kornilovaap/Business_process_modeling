@@ -41,4 +41,14 @@ ____________________
 # [2. Заказ товара в онлайн магазине ](https://github.com/kornilovaap/Business_process_modeling/blob/main/BPMN/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD.png)      
 Необходимо обозначить места, где вознкает проблема в модели as-is                   
                        
-# [3. ]()
+# [3. Заказ пиццы](https://github.com/kornilovaap/Business_process_modeling/blob/main/BPMN/BPMN_%D0%97%D0%B0%D0%BA%D0%B0%D0%B7_%D0%BF%D0%B8%D1%86%D1%86%D1%8B.png)               Полный цикл от заказа, до пргтовлнеия =)    
+                    
+# [4. ]()                 
+                    
+# [3. ]()                 
+                    
+# [3. ]()                 
+                    
+# [3. ]()                 
+                    
+
