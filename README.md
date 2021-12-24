@@ -3,9 +3,9 @@
 #### В данном репозитории предствалены и описаны 4 нотации: ` BPMN, IDEF0, eEPC, Flowchart. `    
 #### Схемы делала в разных моделлерах: ` MS Visio, Bizagi, Draw.io и Aris express. `  
 ________________________
-Учила по курсу: https://gb.ru/courses
-Сертификат о прохождении курса: https://gb.ru/certificates/1261471?b7ed12153ed83083ce055591d9e71460
-    
+Учила по курсу: https://gb.ru/courses                         
+Сертификат о прохождении курса: https://gb.ru/certificates/1261471?b7ed12153ed83083ce055591d9e71460                      
+     
 ### СРАВНЕНИЕ НОТАЦИЙ    
                            
 | *Характеристика* |  *IDEF0* | *eEPC* | *BPMN* | *Flowchart* |
